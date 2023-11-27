@@ -1833,7 +1833,7 @@ Error generating stack: `+o.message+`
     overflow: auto;
         height: 0.8rem;
     margin-bottom: 0.6rem;
-    width: 100%;
+    
     padding-left: 0.32rem;
     padding-right: 0.32rem;  
     position: relative;
